@@ -1,5 +1,6 @@
 /* Function returns index of searched value from array. If element doesnt exists returns -1.
  * Input array shoud be sorted.
+ * Complexity O(log n)
  */
 
 export const binarySearch = (
